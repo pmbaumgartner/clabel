@@ -3,6 +3,9 @@ name = "clabel"
 version = "0.1.0"
 description = "A utility for labeling clusters of text data."
 authors = ["Peter B <5107405+pmbaumgartner@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/pmbaumgartner/clabel"
 
 [tool.poetry.dependencies]
 python = "^3.8"
