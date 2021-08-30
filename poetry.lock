@@ -108,7 +108,7 @@ python-versions = ">=3.5"
 name = "faker"
 version = "8.12.1"
 description = "Faker is a Python package that generates fake data for you."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -434,7 +434,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
 name = "text-unidecode"
 version = "1.3"
 description = "The most basic Text::Unidecode port"
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
@@ -487,7 +487,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "bedbb724cfee142403923ea621a62afa97b31c112b6bcf144f863d18e3cb2457"
+content-hash = "0f1ca211758da3640b297aad829178f611704a8797f6af9e27ae175346f16171"
 
 [metadata.files]
 appdirs = [
